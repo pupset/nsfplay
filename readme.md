@@ -1,3 +1,9 @@
+# NSFPlay fork
+
+This repo just contains a modified (using editbin.exe) nsfplay.exe that makes it a Console instead of GUI application, i.e. it blocks your shell while it's converting. Useful for bulk conversions of NSF files and the like. Grab a release from the original repo and replace the EXE. 
+
+## Original description
+
 NSFPlay/NSFPlug source code
 
 This code is maintained by Brad Smith. It is a fork of NSFPlay/NSFPlug by Brezza. The latest version should be available at:
